@@ -1,0 +1,3 @@
+# More Visual Studio Stuff
+
+This was the second Django site created in [Step 4: Use the full Django Web Project template](https://docs.microsoft.com/en-us/visualstudio/python/learn-django-in-visual-studio-step-04-full-django-project-template?view=vs-2022 "https://docs.microsoft.com/en-us/visualstudio/python/learn-django-in-visual-studio-step-04-full-django-project-template?view=vs-2022") of the Learn Django in Visual Studio tutorial.  This is not something that I am ever going to use.
